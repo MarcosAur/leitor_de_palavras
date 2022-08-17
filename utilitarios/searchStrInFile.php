@@ -7,7 +7,6 @@
         if (str_contains(strtolower($lineValue), strtolower($str_compare))) {
             echo $counter;
         }
-
         $counter += 1;
     }
 
