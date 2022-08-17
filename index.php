@@ -14,10 +14,10 @@
 </head>
 <body>
     <h1>Leitor de Arquivos de Faturamento</h1>
-    <form action="utilitarios/saveFiles.php" method="post" enctype="multipart/form-data">
+    <form action="utilitarios/saveData.php" method="post" enctype="multipart/form-data">
         <div>
-            <label for="string_pesquisada">Informe a sequencia de caracteres que deseja encontrar</label>
-            <input id="string_pesquisada" name="str_pesquisa" type="text">
+            <label for="stringField">Informe a sequencia de caracteres que deseja encontrar</label>
+            <input id="stringField" name="str" type="text">
         </div> <!-- Fim da div dos campo string pesquisada-->
         <br>
         <div>
