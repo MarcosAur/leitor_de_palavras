@@ -1,0 +1,3 @@
+Infomações sobre o arquivo de retorno
+Código Pesquisado: 05 -> Chave Inexistente
+Quantidadde de Registros Encontrados: 5
