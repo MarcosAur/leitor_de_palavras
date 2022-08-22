@@ -1,6 +1,7 @@
 <?php
     include './returnsFactory.php';
     include './createArchive.php';
+    include './funcoesBusca.php';
 
     $codes = [
         "00" => "PROCESSADO NORMALMENTE",
@@ -26,34 +27,10 @@
 
     $fileInLines = explode("\n",$file); // o "\n" foi utilizado pois a divisão é baseada na quebra de linha
     $counter = 1;
-    $str_compare = $_COOKIE['String_Compare'];
-    
-    $returned_registers = [];
-    foreach ($fileInLines as $lineValue) {
-        if (substr($lineValue, -2) == $str_compare){
-            array_push($returned_registers, $lineValue);
-        }
-        
-        $counter += 1;
+
+    foreach ($fileInLines as $registro) {
+        echo "Tipo de Registro: " . resgatarTipoRegistro($registro);
+        echo "Tipo de Transação:" . resgatarTipoDeTransação($registro);
+        die();
     }
-
-    if(array_key_exists($str_compare,$codes)){
-        $Type_of_Registers = $str_compare;
-    }else {
-        $Type_of_Registers = "Chave Inexistente";
-    }
-
-    $qtd = count($returned_registers);
-    $return_to_client = [
-        'Quant_Registers' => $qtd,
-        'Registers' => $returned_registers,
-        'Searched_Codes' => $str_compare,
-        'Type_of_Registers' => $Type_of_Registers,
-    ];
-
-    $msg = "Verificação bem sucedida. Será gerado um arquivo e o download será automatico";
-    noRedirectMessage($msg);
-    createReturnArchive($return_to_client);
-    $msg = "Processo Finalizado";
-    crateSucessMessage($msg, "../views/telaFinal.php");
 ?>
