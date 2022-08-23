@@ -64,7 +64,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001116
-Código de Retorno: 60
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00041201302315
 
@@ -78,7 +78,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001478
-Código de Retorno: 80
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00035007451304
 
@@ -106,7 +106,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000260
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00047420170304
 
@@ -134,7 +134,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000532
-Código de Retorno: 21
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00024514160334
 
@@ -148,7 +148,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000096
-Código de Retorno: 60
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00015173836334
 
@@ -162,7 +162,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000003598
-Código de Retorno: 80
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00045341591372
 
@@ -218,7 +218,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000041
-Código de Retorno: 10
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00022907157353
 
@@ -246,7 +246,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001078
-Código de Retorno: 80
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00006814832372
 
@@ -260,7 +260,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001465
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00042052548300
 
@@ -302,7 +302,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000104
-Código de Retorno: 40
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00065868536304
 
@@ -316,7 +316,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000004725
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00003594050378
 
@@ -330,7 +330,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000851
-Código de Retorno: 10
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00021820236153
 
@@ -386,7 +386,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000035
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00034944796315
 
@@ -512,7 +512,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002400
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00010549803300
 
@@ -526,7 +526,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000360
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -554,7 +554,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001545
-Código de Retorno: 51
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00028805399353
 
@@ -624,7 +624,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000225
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00001784530301
 
@@ -638,7 +638,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000010655
-Código de Retorno: 51
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00065462700300
 
@@ -666,7 +666,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000267
-Código de Retorno: 70
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00013384066391
 
@@ -680,7 +680,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000115
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00013891120397
 
@@ -722,7 +722,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000004605
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00044687443320
 
@@ -764,7 +764,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000260
-Código de Retorno: 01
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00004677092389
 
@@ -820,7 +820,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000301
-Código de Retorno: 10
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00096994355349
 
@@ -834,7 +834,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000003750
-Código de Retorno: 01
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00062488171204
 
@@ -848,7 +848,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000668
-Código de Retorno: 80
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00001921893362
 
@@ -876,7 +876,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000218
-Código de Retorno: 80
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00000149232381
 
@@ -890,7 +890,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000295
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00079099254334
 
@@ -918,7 +918,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000295
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00067366520306
 
@@ -946,7 +946,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000584
-Código de Retorno: 40
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00034057110372
 
@@ -988,7 +988,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002073
-Código de Retorno: 31
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -1016,7 +1016,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000333
-Código de Retorno: 30
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00000669595357
 
@@ -1030,7 +1030,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000065570
-Código de Retorno: 01
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00026084430368
 
@@ -1044,7 +1044,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002500
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00013146513404
 
@@ -1058,7 +1058,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000113
-Código de Retorno: 30
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00041248740300
 
@@ -1072,7 +1072,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000141
-Código de Retorno: 10
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00091324718315
 
@@ -1086,7 +1086,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002173
-Código de Retorno: 30
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00000754241343
 
@@ -1100,7 +1100,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001400
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00004042678319
 
@@ -1128,7 +1128,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000014544
-Código de Retorno: 40
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00022625240334
 
@@ -1142,7 +1142,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000805
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00005038998364
 
@@ -1170,7 +1170,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001500
-Código de Retorno: 01
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00060040180310
 
@@ -1226,7 +1226,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000717
-Código de Retorno: 70
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00016091590391
 
@@ -1268,7 +1268,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002400
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00065762746372
 
@@ -1282,7 +1282,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000178
-Código de Retorno: 81
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00061798517353
 
@@ -1310,7 +1310,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001345
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00048500372320
 
@@ -1352,7 +1352,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000203
-Código de Retorno: 30
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00003606573383
 
@@ -1366,7 +1366,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000067
-Código de Retorno: 70
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00000558578330
 
@@ -1380,7 +1380,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000015
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00005108744366
 
@@ -1422,7 +1422,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000004675
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00035013273315
 
@@ -1436,7 +1436,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000103
-Código de Retorno: 30
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00005051392350
 
@@ -1450,7 +1450,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000339
-Código de Retorno: 90
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00053664230310
 
@@ -1464,7 +1464,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000005850
-Código de Retorno: 01
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00007128269398
 
@@ -1478,7 +1478,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000700
-Código de Retorno: 01
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00062524550320
 
@@ -1548,7 +1548,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001219
-Código de Retorno: 91
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -1562,7 +1562,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000200
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00039514536304
 
@@ -1590,7 +1590,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000711
-Código de Retorno: 10
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00002431573397
 
@@ -1604,7 +1604,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000375
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00003624005391
 
@@ -1618,7 +1618,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002060
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -1632,7 +1632,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000046110
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -1660,7 +1660,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001441
-Código de Retorno: 10
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00003601641372
 
@@ -1674,7 +1674,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000325
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00013805312415
 
@@ -1688,7 +1688,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002592
-Código de Retorno: 21
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -1702,7 +1702,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002852
-Código de Retorno: 20
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00055367909353
 
@@ -1744,7 +1744,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000198
-Código de Retorno: 81
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -1758,7 +1758,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000384
-Código de Retorno: 41
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -1786,7 +1786,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000147
-Código de Retorno: 71
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -1814,7 +1814,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000009333
-Código de Retorno: 31
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -1842,7 +1842,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000037495
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00034032983372
 
@@ -1856,7 +1856,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000420
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -1898,7 +1898,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000004160
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00002290722243
 
@@ -1926,7 +1926,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001370
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00085247995368
 
@@ -1940,7 +1940,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000645
-Código de Retorno: 51
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00028693140353
 
@@ -1996,7 +1996,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000004898
-Código de Retorno: 80
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00009760644304
 
@@ -2024,7 +2024,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000400
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -2066,7 +2066,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000994
-Código de Retorno: 40
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00045383049304
 
@@ -2094,7 +2094,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001035
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00088022480363
 
@@ -2108,7 +2108,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000292
-Código de Retorno: 20
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00003558878353
 
@@ -2136,7 +2136,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001110
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -2178,7 +2178,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000987
-Código de Retorno: 70
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00001139055305
 
@@ -2192,7 +2192,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000003419
-Código de Retorno: 91
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -2206,7 +2206,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000975
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00004175433368
 
@@ -2234,7 +2234,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002095
-Código de Retorno: 51
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 09399715000133
 
@@ -2248,7 +2248,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000005795
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00079093566334
 
@@ -2276,7 +2276,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000275
-Código de Retorno: 51
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -2290,7 +2290,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000880
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000338525378
 
@@ -2346,7 +2346,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000185
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00016070720334
 
@@ -2374,7 +2374,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000035
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00047011017372
 
@@ -2388,7 +2388,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000754
-Código de Retorno: 40
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00034124829353
 
@@ -2402,7 +2402,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000003775
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00037260391391
 
@@ -2416,7 +2416,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002235
-Código de Retorno: 51
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00062643843304
 
@@ -2430,7 +2430,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000008115
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00002125490307
 
@@ -2472,7 +2472,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000394
-Código de Retorno: 40
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00063109670372
 
@@ -2500,7 +2500,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000415
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00006638937391
 
@@ -2514,7 +2514,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001495
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00004187199349
 
@@ -2542,7 +2542,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000014319
-Código de Retorno: 90
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00028698908349
 
@@ -2556,7 +2556,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000140
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00085520233349
 
@@ -2570,7 +2570,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002755
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00012989614320
 
@@ -2584,7 +2584,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000017842
-Código de Retorno: 20
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00081439148368
 
@@ -2612,7 +2612,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000930
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -2626,7 +2626,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000505
-Código de Retorno: 51
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -2640,7 +2640,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001332
-Código de Retorno: 20
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00034031200315
 
@@ -2654,7 +2654,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000112
-Código de Retorno: 20
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00015168654304
 
@@ -2696,7 +2696,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000124
-Código de Retorno: 40
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00074104896349
 
@@ -2724,7 +2724,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000449
-Código de Retorno: 90
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00006692737320
 
@@ -2752,7 +2752,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000190
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -2766,7 +2766,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000180
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -2780,7 +2780,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000335
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00059126558300
 
@@ -2808,7 +2808,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000518
-Código de Retorno: 80
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00072679212304
 
@@ -2836,7 +2836,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002395
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00006775552378
 
@@ -2864,7 +2864,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000007988
-Código de Retorno: 81
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -2878,7 +2878,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000471
-Código de Retorno: 10
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00026685450304
 
@@ -2920,7 +2920,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000003865
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00061557242372
 
@@ -2948,7 +2948,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000011400
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -2962,7 +2962,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002090
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -3004,7 +3004,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000080
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -3018,7 +3018,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000305
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00050414313372
 
@@ -3032,7 +3032,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000624
-Código de Retorno: 40
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00083806016372
 
@@ -3046,7 +3046,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001741
-Código de Retorno: 10
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00027400174304
 
@@ -3060,7 +3060,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001258
-Código de Retorno: 80
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00001500617300
 
@@ -3074,7 +3074,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000007988
-Código de Retorno: 81
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00065097025334
 
@@ -3088,7 +3088,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002150
-Código de Retorno: 01
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00090412850320
 
@@ -3116,7 +3116,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000294
-Código de Retorno: 41
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -3144,7 +3144,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000114
-Código de Retorno: 40
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00004891017392
 
@@ -3158,7 +3158,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000657
-Código de Retorno: 70
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00034275274334
 
@@ -3172,7 +3172,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000927
-Código de Retorno: 70
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00042920647334
 
@@ -3186,7 +3186,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000840
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000206749708
 
@@ -3214,7 +3214,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001494
-Código de Retorno: 40
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00041165403315
 
@@ -3312,7 +3312,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000645
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00015094480391
 
@@ -3340,7 +3340,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000004695
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00033880727368
 
@@ -3410,7 +3410,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000013395
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00002718876301
 
@@ -3424,7 +3424,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000470
-Código de Retorno: 01
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00034299297334
 
@@ -3438,7 +3438,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000632
-Código de Retorno: 20
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00024111783368
 
@@ -3466,7 +3466,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000737
-Código de Retorno: 70
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00055372309334
 
@@ -3494,7 +3494,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000182
-Código de Retorno: 21
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00001490990291
 
@@ -3536,7 +3536,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001275
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00003612333372
 
@@ -3620,7 +3620,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000210
-Código de Retorno: 01
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -3648,7 +3648,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000025659
-Código de Retorno: 91
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00034978852315
 
@@ -3690,7 +3690,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000136
-Código de Retorno: 60
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00005101415367
 
@@ -3704,7 +3704,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001552
-Código de Retorno: 20
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00030580340244
 
@@ -3746,7 +3746,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000305
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00003867864373
 
@@ -3760,7 +3760,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002525
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00004353579304
 
@@ -3802,7 +3802,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000615
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00072942851368
 
@@ -3872,7 +3872,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000004615
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00010542620391
 
@@ -3886,7 +3886,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000465
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00004362349391
 
@@ -3942,7 +3942,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002100
-Código de Retorno: 01
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00005770826398
 
@@ -3956,7 +3956,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000299
-Código de Retorno: 91
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -3970,7 +3970,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000001125
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00012505858802
 
@@ -3984,7 +3984,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000312
-Código de Retorno: 21
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00003871455326
 
@@ -4012,7 +4012,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000004297
-Código de Retorno: 70
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00027947963304
 
@@ -4040,7 +4040,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000048243
-Código de Retorno: 31
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 03804459000136
 
@@ -4124,7 +4124,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000525
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00015113515353
 
@@ -4138,7 +4138,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000746
-Código de Retorno: 61
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00035089059349
 
@@ -4152,7 +4152,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000003035
-Código de Retorno: 51
+Código de Retorno: 10
 Tipo de Documento: 1
 Documento: 00066165768334
 
@@ -4320,7 +4320,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000875
-Código de Retorno: 50
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00022819614353
 
@@ -4334,7 +4334,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000119
-Código de Retorno: 90
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00023988142387
 
@@ -4376,7 +4376,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000002736
-Código de Retorno: 61
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00000000000000
 
@@ -4404,7 +4404,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000009193
-Código de Retorno: 30
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00078253438168
 
@@ -4530,7 +4530,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000005518
-Código de Retorno: 80
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00044295855715
 
@@ -4558,7 +4558,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000393
-Código de Retorno: 30
+Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00030632390387
 
@@ -4600,7 +4600,7 @@ Ano/Mês de referência: 202208
 Status Retorno: R
 Data de Processamento: 20220718
 Valor: 000000000000330
-Código de Retorno: 01
+Código de Retorno: 12
 Tipo de Documento: 1
 Documento: 00079928820325
 

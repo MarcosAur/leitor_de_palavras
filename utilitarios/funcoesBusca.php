@@ -46,7 +46,7 @@
     }
 
     function resgatarCodigoRetorno($registro){
-        $valorRetornado = substr($registro,61,2);
+        $valorRetornado = substr($registro,62,2);
         return $valorRetornado;
     }
 
@@ -58,6 +58,22 @@
     function resgatarDocumento($registro){
         $valorRetornado = substr($registro,65,14);
         return $valorRetornado;
+    }
+
+    function inicio($registro){
+        $retorno = substr($registro,0,7);
+        return $retorno;
+    }
+
+    function meio($registro){
+        $retorno = substr($registro,17,30);
+        return $retorno;
+    }
+
+
+    function fim($registro){
+        $retorno = substr($registro,64);
+        return $retorno;
     }
 
 

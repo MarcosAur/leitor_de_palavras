@@ -15,8 +15,8 @@
     $counter = 1;
     unlink("../upload/InformacoesTransacoes.txt");
     unlink("../upload/ClientesErro.csv");
-    $retorno_csv = "UC,Nome,CPF\n";
-    createReturnCSV($retorno_csv);
+
+
     foreach ($fileInLines as $registro) {
         $retorno = "";
         $retorno .= "Registro -> $counter\n";
@@ -34,12 +34,17 @@
         $retorno .= "Documento: " . resgatarDocumento($registro). "\n";
         escreverArquivoClientes($retorno);
         $counter += 1;
-
-        if (resgatarCodigoRetorno($registro) != "00"){
-            $retorno_csv = resgatarNumeroDaUC($registro). ",";
-            $retorno_csv .= "Nome Desconhecido,";
-            $retorno_csv .= resgatarDocumento($registro). ",";
-            createReturnCSV($retorno_csv);
-        }
     }
+
+    $retorno = "INICIO,UC,MEIO,VALOR,VALOR AJUSTADO,COD RETORNO,FIM\n";
+    foreach ($fileInLines as $registro) {
+        $retorno .= inicio($registro) .",";
+        $retorno .= resgatarNumeroDaUC($registro) . ",";
+        $retorno .= meio($registro) . ",";
+        $retorno .= resgatarValor($registro) . ",";
+        $retorno .= "Ainda não implementado,";
+        $retorno .= resgatarCodigoRetorno($registro) . ",";
+        $retorno .= fim($registro);
+    }
+    createReturnCSV($retorno)
 ?>
