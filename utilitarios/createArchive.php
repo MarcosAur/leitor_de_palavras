@@ -9,7 +9,7 @@
     }
 
     function createReturnCSV($data){
-        $fileName = "../upload/ClientesErro.csv";
+        $fileName = "../upload/InformaçõesClientes.csv";
         $edit_file = fopen($fileName, 'a+');
 
         fwrite($edit_file, "$data\n");

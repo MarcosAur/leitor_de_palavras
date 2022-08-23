@@ -14,7 +14,7 @@
     $fileInLines = explode("\n",$file); // o "\n" foi utilizado pois a divisão é baseada na quebra de linha
     $counter = 1;
     unlink("../upload/InformacoesTransacoes.txt");
-    unlink("../upload/ClientesErro.csv");
+    unlink("../upload/InformaçõesClientes.csv");
 
 
     foreach ($fileInLines as $registro) {
@@ -36,15 +36,23 @@
         $counter += 1;
     }
 
-    $retorno = "INICIO,UC,MEIO,VALOR,VALOR AJUSTADO,COD RETORNO,FIM\n";
+    $retorno = "INICIO;UC;MEIO;VALOR AJUSTADO;COD RETORNO;OBS. Codigo;CPF;FIM\n";
     foreach ($fileInLines as $registro) {
-        $retorno .= inicio($registro) .",";
-        $retorno .= resgatarNumeroDaUC($registro) . ",";
-        $retorno .= meio($registro) . ",";
-        $retorno .= resgatarValor($registro) . ",";
-        $retorno .= "Ainda não implementado,";
-        $retorno .= resgatarCodigoRetorno($registro) . ",";
-        $retorno .= fim($registro);
+        $QUANTIDADE_DE_CARACTERES = 89;
+        if (strlen($registro) == 89) {
+            $retorno .= inicio($registro) .";";
+            $retorno .= resgatarNumeroDaUC($registro) . ";";
+            $retorno .= meio($registro) . ";";
+            $valor = resgatarValor($registro);
+            $valor = gerarValorFormatado($valor);
+            $retorno .=  $valor . ";";
+            $retornoUC = resgatarCodigoRetorno($registro);
+            $retorno .=  $retornoUC . ";";
+            $retorno .= obsRetorno($retornoUC) . ";";
+            $retorno .= resgatarDocumento($registro) . ";";
+            $retorno .= fim($registro) . "\n";
+        }  
+        
     }
     createReturnCSV($retorno)
 ?>

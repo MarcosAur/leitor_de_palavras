@@ -76,5 +76,39 @@
         return $retorno;
     }
 
+    function gerarValorFormatado($valor){
+        $valorFormatado = intval($valor);
+        $valorFormatado = strval($valorFormatado);
+        $valor_em_centavos = substr($valorFormatado, -2);
+        $quantidade_caracteres = strlen($valorFormatado) - 2;
+        if ($quantidade_caracteres != 0) {
+            $valor_em_real = substr($valorFormatado, 0, $quantidade_caracteres);
+        }else{
+            $valor_em_real = "0";
+        }
+        
+        return "$valor_em_real,$valor_em_centavos";
+    }
+
+    function obsRetorno($retornoUC){
+        $codes = [
+            "00" => "PROCESSADO NORMALMENTE",
+            "01" => "UC INVÁLIDA OU NÃO EXISTENTE",
+            "02" => "FATURAMENTO PARA O PERÍODO JÁ EXISTENTE",  
+            "09" => "INCONSISTÊNCIA NO REGISTRO",
+            "10" => "UC DESLIGADA",
+            "11" => "ALTERAÇÃO DE CLASSE",
+            "12" => "CPF OU CNPJ DIFERE DO CADASTRO",
+            "13" => "INDICADO COBRAR POR MAIS DE UM MÊS E NÃO TEM CARACTERISTICA UC CADASTRADA",
+            "14" => "CARACTERISTICA UC CADASRTRADA NA ENTIDADE NÃO ESTÁ CONFIGURADA PARA COBR. TERCEIROS",
+            "15" => "JÁ TEM CARACTERISTICA UC ATIVA PARA COBRANÇA NA DATA DE INÍCIO INFORMADA",
+            "20" => "OUTRAS REJEIÇÕES",
+        ];
+        
+        return $codes[$retornoUC];
+        
+    }
+
+
 
 ?>
