@@ -1,9 +1,0 @@
-Infomações sobre o arquivo de retorno
-Código Pesquisado: 00 -> 00
-Quantidadde de Registros Encontrados: 268
-Infomações sobre o arquivo de retorno
-Código Pesquisado: 00 -> 00
-Quantidadde de Registros Encontrados: 268
-Infomações sobre o arquivo de retorno
-Código Pesquisado: 01 -> 01
-Quantidadde de Registros Encontrados: 0

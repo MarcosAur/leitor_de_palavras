@@ -3,20 +3,6 @@
     include './createArchive.php';
     include './funcoesBusca.php';
 
-    $codes = [
-        "00" => "PROCESSADO NORMALMENTE",
-        "01" => "UC INVÁLIDA OU NÃO EXISTENTE",
-        "02" => "FATURAMENTO PARA O PERÍODO JÁ EXISTENTE",
-        "09" => "INCONSISTÊNCIA NO REGISTRO",
-        "10" => "UC DESLIGADA",
-        "11" => "ALTERAÇÃO DE CLASSE",
-        "12" => "CPF OU CNPJ DIFERE DO CADASTRO",
-        "13" => "INDICADO COBRAR POR MAIS DE UM MÊS E NÃO TEM CARACTERISTICA UC CADASTRADA",
-        "14" => "CARACTERISTICA UC CADASRTRADA NA ENTIDADE NÃO ESTÁ CONFIGURADA PARA COBR. TERCEIROS",
-        "15" => "JÁ TEM CARACTERISTICA UC ATIVA PARA COBRANÇA NA DATA DE INÍCIO INFORMADA",
-        "20" => "OUTRAS REJEIÇÕES"
-    ]; // Códigos de retorno padrão
-
     //Mensagem de sucesso do upload
     if (isset($_COOKIE['sucess'])) {
         $msg = $_COOKIE['sucess'];
@@ -27,10 +13,33 @@
 
     $fileInLines = explode("\n",$file); // o "\n" foi utilizado pois a divisão é baseada na quebra de linha
     $counter = 1;
-
+    unlink("../upload/InformacoesTransacoes.txt");
+    unlink("../upload/ClientesErro.csv");
+    $retorno_csv = "UC,Nome,CPF\n";
+    createReturnCSV($retorno_csv);
     foreach ($fileInLines as $registro) {
-        echo "Tipo de Registro: " . resgatarTipoRegistro($registro);
-        echo "Tipo de Transação:" . resgatarTipoDeTransação($registro);
-        die();
+        $retorno = "";
+        $retorno .= "Registro -> $counter\n";
+        $retorno .= "Tipo de Registro: " . resgatarTipoRegistro($registro) . "\n";
+        $retorno .= "Tipo de Transação: " . resgatarTipoDeTransação($registro). "\n";
+        $retorno .= "Código Produto: " . resgatarCodigoProduto($registro). "\n";
+        $retorno .= "Número da UC: " . resgatarNumeroDaUC($registro). "\n";
+        $retorno .= "Código Cliente na terceira: " . resgatarCodigoDoClienteNaTerceira($registro). "\n";
+        $retorno .= "Ano/Mês de referência: " . resgatarPeriodoReferencia($registro). "\n";
+        $retorno .= "Status Retorno: " . resgatarStatusRetorno($registro). "\n";
+        $retorno .= "Data de Processamento: " . resgatarDataDeProcessamento($registro). "\n";
+        $retorno .= "Valor: " . resgatarValor($registro). "\n";
+        $retorno .= "Código de Retorno: " . resgatarCodigoRetorno($registro). "\n";
+        $retorno .= "Tipo de Documento: " . resgatarTipoDeDocumento($registro). "\n";
+        $retorno .= "Documento: " . resgatarDocumento($registro). "\n";
+        escreverArquivoClientes($retorno);
+        $counter += 1;
+
+        if (resgatarCodigoRetorno($registro) != "00"){
+            $retorno_csv = resgatarNumeroDaUC($registro). ",";
+            $retorno_csv .= "Nome Desconhecido,";
+            $retorno_csv .= resgatarDocumento($registro). ",";
+            createReturnCSV($retorno_csv);
+        }
     }
 ?>
