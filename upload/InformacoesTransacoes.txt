@@ -4618,31 +4618,3 @@ Código de Retorno: 00
 Tipo de Documento: 1
 Documento: 00082517959315
 
-Registro -> 331
-Tipo de Registro: 9
-Tipo de Transação: 00
-Código Produto: 0999
-Número da UC: 0000033200
-Código Cliente na terceira: 0000001088532  
-Ano/Mês de referência:       
-Status Retorno:  
-Data de Processamento:         
-Valor:                
-Código de Retorno:   
-Tipo de Documento:  
-Documento:               
-
-Registro -> 332
-Tipo de Registro: 
-Tipo de Transação: 
-Código Produto: 
-Número da UC: 
-Código Cliente na terceira: 
-Ano/Mês de referência: 
-Status Retorno: 
-Data de Processamento: 
-Valor: 
-Código de Retorno: 
-Tipo de Documento: 
-Documento: 
-

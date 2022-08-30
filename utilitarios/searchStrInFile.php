@@ -18,6 +18,8 @@
 
 
     foreach ($fileInLines as $registro) {
+        $QUANTIDADE_DE_CARACTERES = 89;
+        if (strlen($registro) == $QUANTIDADE_DE_CARACTERES) {
         $retorno = "";
         $retorno .= "Registro -> $counter\n";
         $retorno .= "Tipo de Registro: " . resgatarTipoRegistro($registro) . "\n";
@@ -34,12 +36,13 @@
         $retorno .= "Documento: " . resgatarDocumento($registro). "\n";
         escreverArquivoClientes($retorno);
         $counter += 1;
+        }
     }
 
     $retorno = "INICIO;UC;MEIO;VALOR AJUSTADO;COD RETORNO;OBS. Codigo;CPF;FIM\n";
     foreach ($fileInLines as $registro) {
         $QUANTIDADE_DE_CARACTERES = 89;
-        if (strlen($registro) == 89) {
+        if (strlen($registro) == $QUANTIDADE_DE_CARACTERES) {
             $retorno .= inicio($registro) .";";
             $retorno .= resgatarNumeroDaUC($registro) . ";";
             $retorno .= meio($registro) . ";";
@@ -54,5 +57,7 @@
         }  
         
     }
-    createReturnCSV($retorno)
+    $counter -= 1;
+    createReturnCSV($retorno);
+    crateSucessLongMessage($counter, "../views/telaFinal.php");
 ?>
